@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+React Quizz Component
+
+<img width="622" alt="Screenshot 2021-12-16 at 21 31 06" src="https://user-images.githubusercontent.com/53978655/146436480-68b8a101-cd49-4bef-9a9d-9bb55e99ccc3.png">
+
+<img width="713" alt="Screenshot 2021-12-16 at 21 32 38" src="https://user-images.githubusercontent.com/53978655/146436622-a75c7b32-fd09-478c-92dc-022cff7e99e0.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
